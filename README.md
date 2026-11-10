@@ -190,4 +190,4 @@ This repository serves as the official landing page for Advanced Combat Tracker.
 **Get the most recent version of Advanced Combat Tracker today!**
 
 ---
-**Last updated:** 2026-11-10 01:50:38 UTC
+**Last updated:** 2026-11-10 09:06:33 UTC
